@@ -10,6 +10,6 @@ function App() {
    
 <TablaAlimentos />
   )
-}
+} 
 
 export default App
