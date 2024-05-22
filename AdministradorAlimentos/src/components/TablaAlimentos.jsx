@@ -1,11 +1,9 @@
-
-
 export function TablaAlimentos(){
- 
+    
     return(
         <div class="container mx-auto">
             <h1>hola</h1>
-            <table class='outline-'>
+            <table class='outline-dotted'>
                 <tr>
                     <th>top1</th>
                     <th>top2</th>
